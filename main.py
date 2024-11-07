@@ -11,7 +11,7 @@ import random
 # Parameters: None
 # Return: None
 def main():
-    print("Welcome to the ASCII Art Computer Program! Hope you enjoy!")
+    print("Welcome to the ASCII Art Computer Program! The purpose of this program is for you to experience ASCII art! Enjoy!")
 
     # Display the menu once and handle the user's choice
     choice = display_menu()
